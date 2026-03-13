@@ -8,5 +8,5 @@
 
 Check out my **Among Us Mods** : 
 
-**[Town Of Super Idol](https://github.com/superidol1890/TOSI)**
-**[Dark Mode](https://github.com/superidol1890/DarkModeAU)**
+- **[Town Of Super Idol](https://github.com/superidol1890/TOSI)**
+- **[Dark Mode](https://github.com/superidol1890/DarkModeAU)**
